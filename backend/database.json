@@ -1,0 +1,20 @@
+{
+    "quiz":[
+        {
+        "question" : "asuult1",
+        "answer": ["Hariult1", "Hariult2", "Hariult3", "Hariult4"]
+    },
+    {
+        "question" : "asuult2",
+        "answer": ["Hariult1", "Hariult2", "Hariult3", "Hariult4"]
+    },
+    {
+        "question" : "asuult3",
+        "answer": ["Hariult1", "Hariult2", "Hariult3", "Hariult4"]
+    },
+    {
+        "question" : "asuult4",
+        "answer": ["Hariult1", "Hariult2", "Hariult3", "Hariult4"]
+    }
+  ]
+}
